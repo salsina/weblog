@@ -1,0 +1,15 @@
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\CodeYad-Blog.DataLayer.deps.json
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\CodeYad-Blog.DataLayer.runtimeconfig.json
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\CodeYad-Blog.DataLayer.runtimeconfig.dev.json
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\CodeYad-Blog.DataLayer.dll
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\ref\CodeYad-Blog.DataLayer.dll
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\bin\Debug\net5.0\CodeYad-Blog.DataLayer.pdb
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.AssemblyInfo.cs
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.dll
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\ref\CodeYad-Blog.DataLayer.dll
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.pdb
+C:\Users\Sina\Desktop\codyad\3) Blog\CodeYad-Blog-master\CodeYad-Blog.DataLayer\obj\Debug\net5.0\CodeYad-Blog.DataLayer.genruntimeconfig.cache
